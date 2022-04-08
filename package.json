@@ -1,0 +1,19 @@
+{
+  "name": "outwater_todolist",
+  "version": "1.0.0",
+  "description": "todolist 배포 확인용",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Outwater/outwater_todolist.git"
+  },
+  "author": "Outwater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Outwater/outwater_todolist/issues"
+  },
+  "homepage": "https://github.com/Outwater/outwater_todolist#readme"
+}
