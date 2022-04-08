@@ -48,7 +48,6 @@ export default function TodoList({
     $target.innerHTML = this.template();
   };
 
-  this.init();
   this.render();
   this.setEvent();
 }
